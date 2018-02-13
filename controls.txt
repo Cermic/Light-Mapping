@@ -1,0 +1,30 @@
+W 	 	       Move Camera Forward
+A 	 	       Move Camera Left
+S 	 	       Move Camera Backwards
+D 	 	       Move Camera Right
+Up Arrow 	       Move Camera Upwards
+Down Arrow 	       Move Camera Down
+Left Arrow 	       Rotate Camera Left 
+Right Arrow 	       Rotate Camera Right
+R		       Reset Camera
+
+Num Key 3 	       Rotates Boxes
+Num Key 4 	       Inverse Rotate Boxes
+Num Key 5 	       Loads MetalBox Texture Pair
+Num Key 6 	       Loads MetalBox2 Texture Pair
+Num Key 7 	       Loads Compounds Texture
+Num Key 8 	       Loads Lightmap Texture only
+
+Num Pad 8 	       Move Light Cube Up
+Num Pad 2 	       Move Light Cube Down
+Num Pad 4 	       Move Light Cube Left
+Num Pad 6 	       Move Light Cube Right
+Num Pad 3	       Move Light Cube Forward
+Num Pad 9	       Move Light Cube Backward
+
+Num Pad - 	       Decrease Attenutation
+Num Pad + 	       Increase Attenutation
+
+Left Shift & Num Pad   Decrease Specular Shininess
+Left Shift & Num Pad   Increase Specular Shininess
+Ecape 		       Quit Application
