@@ -1,4 +1,4 @@
-# Address-Book
+# Light-Mapping
 
 ## Information:
 Created using Visual Studio using C++ and GLSL for the rendering aspect and SDL to display.
