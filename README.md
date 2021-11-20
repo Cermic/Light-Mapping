@@ -10,4 +10,4 @@ This project requires [GLM](https://glm.g-truc.net/0.9.9/index.html), [GLEW](htt
 This technique demonstrates light mapping on a texture - by sampling the RGB values of an independent texture we can adjust the specular shininess of an object in the scene that appears to have multiple materials. OpenGL was utilised to create the objects seen on screen.
 
 ## Link to Demonstration:
-[Demo](https://www.youtube.com/watch?v=qNBKvKMv5Ag)
+[![Lightmapping Demo](https://img.youtube.com/vi/qNBKvKMv5Ag/0.jpg)](https://www.youtube.com/watch?v=qNBKvKMv5Ag "Lightmapping Demo")
