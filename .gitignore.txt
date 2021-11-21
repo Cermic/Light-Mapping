@@ -9,6 +9,10 @@
 *.userosscache
 *.sln.docstates
 
+#CMake Files
+.cmake/
+vcpkg_installed/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
