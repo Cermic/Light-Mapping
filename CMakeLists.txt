@@ -17,6 +17,8 @@ find_package(glm CONFIG REQUIRED)
 
 add_executable(${PROJECT_NAME} ${headerFiles} ${sourceFiles})
 
+set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${PROJECT_NAME})
+
 target_link_libraries(${PROJECT_NAME} PRIVATE GLEW::GLEW)
 target_link_libraries(${PROJECT_NAME} PRIVATE SDL2::SDL2 SDL2::SDL2main)
 target_link_libraries(${PROJECT_NAME} PRIVATE SDL2::SDL2_ttf)
